@@ -2,8 +2,8 @@
 매일 당신에게 새로운 커피를 추천해주는 사이트
 
 사용기술
-1. NCP 서버 구축 DNS 적용
-2. Django apache
+1. NCP
+2. Django 
 3. MySQL
 4. Bootstrap
 
